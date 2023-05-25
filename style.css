@@ -1,0 +1,39 @@
+
+body {
+  background-color: rgba(0, 0, 0, 0.107);
+  overflow: hidden;
+  padding: 25px;
+  background-attachment: fixed;
+  background-size: cover;
+  color: black;
+  font-weight: 800;
+}
+
+.calculadora-row {
+  box-shadow: -100px -100px rgba(31, 73, 125, 0.8);
+  height: 100vh;
+}
+
+.calculadora-container,
+.form-control,
+.btn,
+.btn-close {
+  border: 2px solid black;
+  box-shadow: 4px 4px rgba(31, 73, 125, 0.8);
+  font-weight: 800;
+  border-radius: 20px;
+}
+
+.btn-close {
+  background-color: red;
+}
+
+.modal-content {
+  border-radius: 20px;
+  border: 2px solid rgb(0, 0, 0);
+  box-shadow: 4px 4px rgba(31, 73, 125, 0.8);
+}
+
+h4 {
+  font-weight: 700;
+}
