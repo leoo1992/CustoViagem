@@ -1,3 +1,3 @@
-# Repository Quality
+# CustoViagem — Repository Quality
 
-Baseline de qualidade automatizada.
+Baseline automatizada de qualidade e segurança do repositório.
